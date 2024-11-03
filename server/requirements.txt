@@ -1,0 +1,7 @@
+flask 
+flask-cors 
+pillow 
+opencv-python-headless
+pymupdf
+easyocr
+dotenv
