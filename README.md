@@ -1,4 +1,4 @@
-# Document Text Extractor
+# Document Text Extractor(using mistral-7b)
 
 A web application that extracts text information from images and PDFs using OCR (Optical Character Recognition) and processes it using the Mistral AI model to identify specific fields like names, document numbers, and expiration dates.
 
